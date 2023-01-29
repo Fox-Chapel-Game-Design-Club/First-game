@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Ceiling
+  - FX
+  - Game
+  - Floor
   - 
   - 
   - 
@@ -40,4 +40,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4123493801
+    locked: 0
+  - name: Game
+    uniqueID: 480341817
+    locked: 0
+  - name: FX
+    uniqueID: 690840679
+    locked: 0
+  - name: Ceiling
+    uniqueID: 2171646549
+    locked: 0
+  - name: UI
+    uniqueID: 3499174721
     locked: 0
